@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "flamebound.aternos.me:36209",
+    "ip": "flamebound.aternos.me",
     "port": 36209,
     "version": "",
     "try-creative": false
