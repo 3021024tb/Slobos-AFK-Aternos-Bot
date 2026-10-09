@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "flamebound.aternos.me:36209",
+    "port": 36209,
     "version": "",
     "try-creative": false
   },
